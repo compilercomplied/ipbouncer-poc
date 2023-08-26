@@ -1,6 +1,6 @@
 # IP bouncer service
 
-_Disclaimer: this is the take home exercise from a past interview. I was ghosted and no communication was given afterwards. I've reworded the task description to make it very hard to find when searching on the internet._
+_Disclaimer: this is the take home exercise from a past final interview. I was ghosted and no feedback was given during the interview, after following a long process. I've reworded the task description to make it very hard to find when searching on the internet._
 
 # Service description
 
